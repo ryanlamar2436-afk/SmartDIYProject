@@ -1,1 +1,8 @@
 body {backround-color: #fofofo;font-family: Arial, sans-serif; }
+
+div.project {
+  border: 1px solid #ccs;
+  padding: 16px;
+  margin: 10px;
+  border-radius: 8px;
+  backround-color: #fff;}
