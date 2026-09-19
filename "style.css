@@ -5,4 +5,13 @@ div.project {
   padding: 16px;
   margin: 10px;
   border-radius: 8px;
-  backround-color: #fff;}
+  backround-color: #e0f7fa;}
+
+a {
+  text-decoration: none:
+  color: #007BFF;
+  font-weight: bold;
+}
+a:hover {
+  color: #0056b3;
+}
